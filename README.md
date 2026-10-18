@@ -13,4 +13,4 @@
 
 ## Rozcestník
 
-1. [01 - Ideový plán](.01-ideovy-plan/README.md)
+1. [01 - Ideový plán](01-ideovy-plan/README.md)
